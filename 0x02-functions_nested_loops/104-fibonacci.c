@@ -4,20 +4,12 @@
 
 /**
  *
- * * main - fibonacci <3
+ * main - fibonacci <3
  *
- * *
+ * Purpose - no hardcode
  *
- * * Purpose - no hardcode
- *
- * *
- *
- * * Return:  (Success)
- *
- * */
-
-
-
+ * Return:  (Success)
+ */
 
 int main(void)
 
